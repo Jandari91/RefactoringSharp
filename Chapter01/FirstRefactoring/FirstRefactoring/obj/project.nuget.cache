@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sr6X2f6PPh+uxTxJ/L1HZiqytHiFvKQGqQ7huSBPNfH/yHyb1lr5MSJgZgsTr0NAp7infvMDaBTz6+Md3J8OIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\GitLab\\RefactoringSharp\\Chapter01\\FirstRefactoring\\FirstRefactoring\\FirstRefactoring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pys42\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
